@@ -5,11 +5,8 @@
 
 ### 🚀 Sobre Mim
 
-Sou um **Desenvolvedor Front-End** na [Auditore Sistemas](https://auditore.com.br/) e atuo também com **Suporte Técnico** na [Maximus Automação](https://maximusautomacao.com/).  
-Além disso, sou **Full Stack** em projetos próprios através da minha empresa, a [CodesDevs](https://codesdevs.com.br/), onde crio soluções modernas e escaláveis para diversos clientes.
-
+Sou um **Desenvolvedor Front-End** na [Auditore Sistemas](https://auditore.com.br/) e sou **Full Stack** em projetos próprios através da minha empresa, a [CodesDevs](https://codesdevs.com.br/), onde crio soluções modernas e escaláveis para diversos clientes.
 Minha paixão por tecnologia vai além do código: há mais de 2 anos, mantenho meu próprio **servidor VPS**, oferecendo serviços de hospedagem para outras empresas. Essa experiência me proporcionou habilidades práticas em administração de sistemas, segurança, automação de deploy e monitoramento de aplicações em produção.
-
 Sou fascinado por **infraestrutura**, **inteligência artificial** e **automação**, e estou constantemente explorando novas ferramentas e metodologias para aprimorar minhas habilidades.
 
 - 🎓 Cursando **Engenharia de Software**
