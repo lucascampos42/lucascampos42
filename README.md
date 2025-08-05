@@ -22,57 +22,53 @@ Sou fascinado por **infraestrutura**, **inteligência artificial** e **automaç�
 
 ## 🛠️ Tecnologias & Ferramentas
 
-#### 🧠 Linguagens de Programação
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-
-#### 🎨 Front-end
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=sass&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-
-#### 🧩 Back-end
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-
-#### 🗄️ Banco de Dados
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Firebird](https://img.shields.io/badge/Firebird-EE4000?style=flat-square&logo=firefoxbrowser&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-
-#### ⚙️ DevOps & Infraestrutura
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Proxmox](https://img.shields.io/badge/Proxmox-F5A623?style=flat-square&logo=proxmox&logoColor=black)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=flat-square&logo=windows&logoColor=white)
-![VMware](https://img.shields.io/badge/VMware-607078?style=flat-square&logo=vmware&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Cloud Computing](https://img.shields.io/badge/Cloud_Computing-00A4EF?style=flat-square&logo=cloud&logoColor=white)
-![Infraestrutura](https://img.shields.io/badge/Infraestrutura-8B00FF?style=flat-square&logo=server&logoColor=white)
-
-#### 🧠 Inteligência Artificial
-![LM Studio SDK](https://img.shields.io/badge/LM%20Studio%20SDK-8B00FF?style=flat-square&logo=artificial-intelligence&logoColor=white)
-
-#### 🖥️ Aplicações Desktop
-![Tauri](https://img.shields.io/badge/Tauri-24C8DB?style=flat-square&logo=tauri&logoColor=white)
-
-#### 📚 Documentação & Arquitetura
-![Compodoc](https://img.shields.io/badge/Compodoc-4889F4?style=flat-square&logo=angular&logoColor=white)
-![Arquitetura Limpa](https://img.shields.io/badge/Arquitetura_Limpa-0D1117?style=flat-square&logo=cleanarchitecture&logoColor=white)
-![MVC](https://img.shields.io/badge/MVC-FF7F50?style=flat-square&logo=architecture&logoColor=white)
-![Modelagem de Dados](https://img.shields.io/badge/Modelagem_de_Dados-FF7F50?style=flat-square&logo=database&logoColor=white)
-
+<table cellpadding="0" cellspacing="0" border="0">
+  <tr>
+    <td align="center" width="150">
+      <p><strong>Linguagens</strong></p>
+      <a href="[https://www.typescriptlang.org/](https://www.typescriptlang.org/)" target="_blank"><img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg)" alt="TypeScript" width="40" height="40"/></a>
+      <a href="[https://developer.mozilla.org/en-US/docs/Web/JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)" target="_blank"><img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg)" alt="JavaScript" width="40" height="40"/></a>
+      <a href="[https://www.python.org](https://www.python.org)" target="_blank"><img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg)" alt="Python" width="40" height="40"/></a>
+      <a href="[https://www.rust-lang.org](https://www.rust-lang.org)" target="_blank"><img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg)" alt="Rust" width="40" height="40"/></a>
+      <a href="[https://www.php.net](https://www.php.net)" target="_blank"><img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg)" alt="PHP" width="40" height="40"/></a>
+      <a href="[https://golang.org](https://golang.org)" target="_blank"><img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg)" alt="Go" width="40" height="40"/></a>
+    </td>
+    <td align="center" width="150">
+      <p><strong>Frontend</strong></p>
+      <a href="[https://reactjs.org/](https://reactjs.org/)" target="_blank"><img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg)" alt="React" width="40" height="40"/></a>
+      <a href="[https://angular.io](https://angular.io)" target="_blank"><img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg)" alt="Angular" width="40" height="40"/></a>
+      <a href="[https://vuejs.org/](https://vuejs.org/)" target="_blank"><img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg)" alt="Vue.js" width="40" height="40"/></a>
+      <a href="[https://tailwindcss.com/](https://tailwindcss.com/)" target="_blank"><img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original-wordmark.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original-wordmark.svg)" alt="TailwindCSS" width="40" height="40"/></a>
+    </td>
+    <td align="center" width="150">
+      <p><strong>Mobile & Desktop</strong></p>
+      <a href="[https://reactnative.dev/](https://reactnative.dev/)" target="_blank"><img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg)" alt="React Native" width="40" height="40"/></a>
+      <a href="[https://flutter.dev](https://flutter.dev)" target="_blank"><img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg)" alt="Flutter" width="40" height="40"/></a>
+      <a href="[https://tauri.app/](https://tauri.app/)" target="_blank"><img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/tauri/tauri-original-wordmark.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/tauri/tauri-original-wordmark.svg)" alt="Tauri" width="40" height="40"/></a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="150">
+      <p><strong>Backend</strong></p>
+      <a href="[https://nodejs.org](https://nodejs.org)" target="_blank"><img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg)" alt="Node.js" width="40" height="40"/></a>
+      <a href="[https://nestjs.com/](https://nestjs.com/)" target="_blank"><img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg)" alt="NestJS" width="40" height="40"/></a>
+    </td>
+    <td align="center" width="150">
+      <p><strong>Banco de Dados</strong></p>
+      <a href="[https://www.postgresql.org](https://www.postgresql.org)" target="_blank"><img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg)" alt="PostgreSQL" width="40" height="40"/></a>
+      <a href="[https://www.mysql.com/](https://www.mysql.com/)" target="_blank"><img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg)" alt="MySQL" width="40" height="40"/></a>
+      <a href="[https://www.mongodb.com/](https://www.mongodb.com/)" target="_blank"><img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg)" alt="MongoDB" width="40" height="40"/></a>
+      <a href="[https://redis.io](https://redis.io)" target="_blank"><img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg)" alt="Redis" width="40" height="40"/></a>
+    </td>
+    <td align="center" width="150">
+      <p><strong>DevOps & Infra</strong></p>
+      <a href="[https://www.docker.com/](https://www.docker.com/)" target="_blank"><img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg)" alt="Docker" width="40" height="40"/></a>
+      <a href="[https://www.linux.org/](https://www.linux.org/)" target="_blank"><img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg)" alt="Linux" width="40" height="40"/></a>
+      <a href="[https://github.com/features/actions](https://github.com/features/actions)" target="_blank"><img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg)" alt="GitHub Actions" width="40" height="40"/></a>
+      <a href="[https://www.proxmox.com/en/](https://www.proxmox.com/en/)" target="_blank"><img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/proxmox/proxmox-original.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/proxmox/proxmox-original.svg)" alt="Proxmox" width="40" height="40"/></a>
+    </td>
+  </tr>
+</table>
 
 </div>
 
