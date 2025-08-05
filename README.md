@@ -87,34 +87,11 @@ Sou fascinado por **infraestrutura**, **inteligência artificial** e **automaç�
   alt="GitHub Stats" 
   style="margin: 10px;"
 />
-
 <img 
   src="https://github-readme-stats.vercel.app/api/top-langs?username=lucascampos42&show_icons=true&locale=pt-br&hide=css,scss&bg_color=1a1a1a&title_color=8b00ff&text_color=ffffff&icon_color=8b00ff&border_color=8b00ff&border_radius=15" 
   alt="Top Languages" 
   style="margin: 10px;"
 />
-
-</div>
-
-
----
-
-<div align="center">
-
-### 📬 Entre em Contato
-
-<a href="https://www.linkedin.com/in/lucascampos42/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-<a href="mailto:bhlucascampos@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-</a>
-<a href="https://github.com/lucascampos42">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-</a>
-<a href="https://wa.me/5533991448945">
-  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
-</a>
 
 </div>
 
@@ -141,7 +118,18 @@ Também sou apaixonado por música 🎵, gatos 🐾 e games 🎮!
 
 </div>
 
----
+<a href="https://www.linkedin.com/in/lucascampos42/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+<a href="mailto:bhlucascampos@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+</a>
+<a href="https://github.com/lucascampos42">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</a>
+<a href="https://wa.me/5533991448945">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
+</a>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=lucascampos42&label=Profile%20Views&color=8b00ff&style=for-the-badge" alt="Profile Views" />
