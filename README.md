@@ -116,8 +116,6 @@ Este é um projeto inicial que estabelece os parâmetros básicos para um backen
 Nos momentos de lazer, gosto de mergulhar em livros sobre **tecnologia** e **desenvolvimento pessoal**, além de romances futuristas como a saga *Duna*, que explora intrigas políticas e filosóficas em um universo intergaláctico, e obras como *Androides Sonham com Ovelhas Elétricas?*, de Philip K. Dick, que inspirou o filme *Blade Runner* e aborda questões profundas sobre a natureza da humanidade e da tecnologia.  
 Também sou apaixonado por música 🎵, gatos 🐾 e games 🎮!
 
-</div>
-
 <a href="https://www.linkedin.com/in/lucascampos42/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
@@ -130,6 +128,9 @@ Também sou apaixonado por música 🎵, gatos 🐾 e games 🎮!
 <a href="https://wa.me/5533991448945">
   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
 </a>
+</div>
+
+
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=lucascampos42&label=Profile%20Views&color=8b00ff&style=for-the-badge" alt="Profile Views" />
