@@ -6,6 +6,7 @@
 ### 🚀 Sobre Mim
 
 Sou um **Desenvolvedor Front-End** na [Auditore Sistemas](https://auditore.com.br/) e sou **Full Stack** em projetos próprios através da minha empresa, a [CodesDevs](https://codesdevs.com.br/), onde crio soluções modernas e escaláveis para diversos clientes.
+
 Minha paixão por tecnologia vai além do código: há mais de 2 anos, mantenho meu próprio **servidor VPS**, oferecendo serviços de hospedagem para outras empresas. Essa experiência me proporcionou habilidades práticas em administração de sistemas, segurança, automação de deploy e monitoramento de aplicações em produção.
 Sou fascinado por **infraestrutura**, **inteligência artificial** e **automação**, e estou constantemente explorando novas ferramentas e metodologias para aprimorar minhas habilidades.
 
@@ -86,7 +87,7 @@ Sou fascinado por **infraestrutura**, **inteligência artificial** e **automaç�
   alt="GitHub Stats" 
   style="margin: 10px;"
 />
-<br />
+
 <img 
   src="https://github-readme-stats.vercel.app/api/top-langs?username=lucascampos42&show_icons=true&locale=pt-br&hide=css,scss&bg_color=1a1a1a&title_color=8b00ff&text_color=ffffff&icon_color=8b00ff&border_color=8b00ff&border_radius=15" 
   alt="Top Languages" 
