@@ -16,7 +16,8 @@ Com mais de 3 anos de experiência em administração de servidores VPS, possuo 
 ## 📊 GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=lucascampos42&show_icons=true&locale=pt-br&bg_color=1a1a1a&title_color=8b00ff&text_color=ffffff&icon_color=8b00ff&border_color=8b00ff&border_radius=15" alt="GitHub Stats" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucascampos42&show_icons=true&locale=pt-br&bg_color=1a1a1a&title_color=8b00ff&text_color=ffffff&icon_color=8b00ff&border_color=8b00ff&border_radius=15&layout=compact" alt="Linguagens Mais Usadas" />
+<img src="https://github-readme-stats.vercel.app/api?username=lucascampos42&show_icons=true&locale=pt-br&bg_color=1a1a1a&title_color=8b00ff&text_color=ffffff&icon_color=8b00ff&border_color=8b00ff&border_radius=15" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucascampos42&show_icons=true&locale=pt-br&bg_color=1a1a1a&title_color=8b00ff&text_color=ffffff&icon_color=8b00ff&border_color=8b00ff&border_radius=15&langs_count=8" alt="Linguagens Mais Usadas" />
 </div>
 
 ---
