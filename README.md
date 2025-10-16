@@ -17,14 +17,7 @@ Com mais de 3 anos de experiência em administração de servidores VPS, possuo 
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=lucascampos42&show_icons=true&locale=pt-br&bg_color=1a1a1a&title_color=8b00ff&text_color=ffffff&icon_color=8b00ff&border_color=8b00ff&border_radius=15" alt="GitHub Stats" />
-</div>
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucascampos42&show_icons=true&locale=pt-br&bg_color=1a1a1a&title_color=8b00ff&text_color=ffffff&icon_color=8b00ff&border_color=8b00ff&border_radius=15&langs_count=8&hide=scss" alt="Linguagens Mais Usadas" />
-</div>
-
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=lucascampos42&theme=dark&background=1a1a1a&ring=8b00ff&fire=8b00ff&currStreakLabel=8b00ff&sideNums=ffffff&currStreakNum=ffffff&dates=ffffff&sideLabels=ffffff" alt="GitHub Streak" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucascampos42&layout=donut&bg_color=1a1a1a&title_color=8b00ff&text_color=ffffff&icon_color=8b00ff&border_color=8b00ff&border_radius=15&hide=css,scss" alt="Top Langs" />
 </div>
 
 ---
