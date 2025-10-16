@@ -1,30 +1,27 @@
 <div align="center">
   <h1>console.log</h1>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=8B00FF&center=true&vCenter=true&width=600&lines=Hello%2C+World!+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Eu+sou+o+Lucas+Campos!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FFF&center=true&vCenter=true&width=600&lines=Hello%2C+World!+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Eu+sou+o+Lucas+Campos!" alt="Typing SVG" />
 </div>
 
 ## 🚀 Sobre Mim
 
-Desenvolvedor Full Stack com experiência na criação de soluções web modernas e escaláveis. Atuo como Front-End na [Auditore Sistemas](https://auditore.com.br/) e lidero projetos na [CodesDevs](https://codesdevs.com.br/), minha iniciativa empreendedora.
+Sou Desenvolvedor Full Stack apaixonado por tecnologia e inovação. Atualmente atuo como Front-End Developer na Auditore Sistemas, onde contribuo para a criação de soluções web modernas e de alta performance.
+Também sou líder de projetos na CodesDevs, minha iniciativa empreendedora voltada ao desenvolvimento de sistemas sob medida e à experimentação de novas tecnologias.
 
-Com mais de 3 anos de experiência em administração de servidores VPS, possuo conhecimentos sólidos em infraestrutura, segurança e práticas DevOps.
+Com mais de 3 anos de experiência em administração de servidores VPS, desenvolvi sólida base em infraestrutura, segurança, automação e práticas DevOps, utilizando ferramentas como Docker, Proxmox e CI/CD para garantir escalabilidade e estabilidade em produção.
 
-**Foco atual:** Engenharia de Software, Inteligência Artificial e Proxmox.
+Tenho como foco o desenvolvimento de software robusto, com código limpo, arquiteturas bem definidas e integração contínua entre backend e frontend.
+Atualmente, meus estudos e projetos estão voltados para Engenharia de Software, Inteligência Artificial e virtualização com Proxmox.
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=lucascampos42&show_icons=true&locale=pt-br&bg_color=1a1a1a&title_color=8b00ff&text_color=ffffff&icon_color=8b00ff&border_color=8b00ff&border_radius=15" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucascampos42&layout=donut&bg_color=1a1a1a&title_color=8b00ff&text_color=ffffff&icon_color=8b00ff&border_color=8b00ff&border_radius=15&hide=css,scss" alt="Top Langs" />
-</div>
+💡 Busco constantemente aprimorar minhas habilidades e transformar ideias em soluções reais que gerem impacto e eficiência.
 
 ---
 
-## 🌟 Projeto em Destaque
+## 🌟 Projetos em Destaque
 
 **[NestJS Boilerplate](https://github.com/lucascampos42/nest-boilerplate)** - Base robusta para backend com autenticação JWT completa e configurações de segurança essenciais.
+
+**[Desafio Bemol](https://github.com/lucascampos42/desafio_bemol)** - Aplicativo desenvolvido em Flutter que consome a Fake Store API e exibe produtos em uma lista, permitindo busca, favoritar itens e visualizar detalhes.
 
 ---
 
@@ -41,7 +38,16 @@ Com mais de 3 anos de experiência em administração de servidores VPS, possuo 
 
 ---
 
-**Interesses:** Tecnologia 💻 | Música 🎵 | Gatos 🐾 | Games 🎮 | Ficção Científica 📚
+## 📊 GitHub Stats
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=lucascampos42&show_icons=true&locale=pt-br&bg_color=1a1a1a&title_color=8b00ff&text_color=ffffff&icon_color=8b00ff&border_color=8b00ff&border_radius=15" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucascampos42&layout=compact&bg_color=1a1a1a&title_color=8b00ff&text_color=ffffff&icon_color=8b00ff&border_color=8b00ff&border_radius=15&hide=css,scss" alt="Top Langs" />
+</div>
+
+---
+
+**Interesses:** Tecnologia 💻 | Games 🎮 | Leituras 📚 | Ficção Científica 📚
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucascampos42/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhlucascampos@gmail.com) [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5533991448945)
 
