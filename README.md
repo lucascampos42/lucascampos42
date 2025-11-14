@@ -1,5 +1,4 @@
-<div align="center">
-  <h1>console.log</h1>
+<div align="center">  
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FFF&center=true&vCenter=true&width=600&lines=Hello%2C+World!+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Eu+sou+o+Lucas+Campos!" alt="Typing SVG" />
 </div>
 
@@ -12,8 +11,6 @@ Com mais de 3 anos de experiência em administração de servidores VPS, desenvo
 
 Tenho como foco o desenvolvimento de software robusto, com código limpo, arquiteturas bem definidas e integração contínua entre backend e frontend.
 Atualmente, meus estudos e projetos estão voltados para Engenharia de Software, Inteligência Artificial e virtualização com Proxmox.
-
-💡 Busco constantemente aprimorar minhas habilidades e transformar ideias em soluções reais que gerem impacto e eficiência.
 
 ---
 
@@ -46,6 +43,7 @@ Atualmente, meus estudos e projetos estão voltados para Engenharia de Software,
 </div>
 
 ---
+💡 Busco constantemente aprimorar minhas habilidades e transformar ideias em soluções reais que gerem impacto e eficiência.
 
 **Interesses:** Tecnologia 💻 | Games 🎮 | Leituras 📚 | Ficção Científica 📚
 
