@@ -38,8 +38,7 @@ Atualmente, meus estudos e projetos estão voltados para Engenharia de Software,
 ## 📊 GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=lucascampos42&show_icons=true&locale=pt-br&bg_color=1a1a1a&title_color=fff&text_color=fff&icon_color=fff&border_color=fff&border_radius=15" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucascampos42&layout=compact&bg_color=1a1a1a&title_color=fff&text_color=ffffff&icon_color=fff&border_color=fff&border_radius=15&hide=css,scss" alt="Top Langs" />
+<img src="https://metrics.lecoq.io/lucascampos42?template=classic&config_timezone=America%2FSao_Paulo&bg_color=1a1a1a&title_color=fff&text_color=fff&icon_color=fff&border_color=fff&border_radius=15&achievements=1&achievements.display=detailed" alt="GitHub Stats" />
 </div>
 
 ---
