@@ -47,8 +47,8 @@ Tenho sólida experiência em **administração de servidores VPS**, **DevOps** 
 
 <div align="center">
   <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
-    <img src="https://github-readme-stats.vercel.app/api?username=lucascampos42&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1a1a" height="180" alt="stats graph" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucascampos42&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1a1a" height="180" alt="languages graph" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=lucascampos42&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1a1a" height="180" alt="stats graph" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lucascampos42&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1a1a" height="180" alt="languages graph" />
   </div>
 </div>
 
