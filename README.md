@@ -19,7 +19,7 @@ Currently working at:
 
   <br>
 
-  <img src="https://skillicons.dev/icons?i=angular,vue,flutter,nestjs,ts,php,rust,docker,postgres,linux&perline=10" />
+  <img src="https://skillicons.dev/icons?i=angular,vue,flutter,nestjs,ts,php,rust,docker,postgres,linux,wordpress,django,mongodb,prisma,unreal,vite,tauri,arch,bun,cpp,cloudflare,electron,github&perline=6" />
 
 </div>
 
@@ -63,12 +63,11 @@ Currently working at:
 | Projeto                                                                     |                                  Stack                                   | Descrição                                                    |
 | :-------------------------------------------------------------------------- | :----------------------------------------------------------------------: | :----------------------------------------------------------- |
 | **[NestJS Boilerplate](https://github.com/lucascampos42/nest-boilerplate)** | <img src="https://skillicons.dev/icons?i=nestjs,ts,docker" height="20"/> | Base robusta para backend com autenticação JWT e segurança.  |
-| **[Desafio Bemol](https://github.com/lucascampos42/desafio_bemol)**         | <img src="https://skillicons.dev/icons?i=flutter,dart" height="20"/>   | App Flutter consumindo Fake Store API com busca e favoritos. |
-| **[Checklar](https://github.com/lucascampos42/checklar)**                   | <img src="https://skillicons.dev/icons?i=flutter,nestjs" height="20"/>  | App de lista de compras para o lar.                          |
-| **[Calculo XML](https://github.com/lucascampos42/calculo-xml)**             | <img src="https://skillicons.dev/icons?i=angular,ts" height="20"/>    | Somador de Impostos de NFe e Cupom Fiscal (NFC-e).           |
+| **[Desafio Bemol](https://github.com/lucascampos42/desafio_bemol)**         |   <img src="https://skillicons.dev/icons?i=flutter,dart" height="20"/>   | App Flutter consumindo Fake Store API com busca e favoritos. |
+| **[Checklar](https://github.com/lucascampos42/checklar)**                   |  <img src="https://skillicons.dev/icons?i=flutter,nestjs" height="20"/>  | App de lista de compras para o lar.                          |
+| **[Calculo XML](https://github.com/lucascampos42/calculo-xml)**             |    <img src="https://skillicons.dev/icons?i=angular,ts" height="20"/>    | Somador de Impostos de NFe e Cupom Fiscal (NFC-e).           |
 
 </div>
-
 
 <div align="center">
   
