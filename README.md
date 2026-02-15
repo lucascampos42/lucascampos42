@@ -24,35 +24,21 @@ Currently working at:
 </div>
 
 <br>
-
 <div align="center">
-  <h2 align="center">📊 GitHub Stats</h2>
-  <div align="center">
-    <picture>
-      <source
-        srcset="https://github-readme-stats-fast.vercel.app/api?username=lucascampos42&show_icons=true&theme=dark&include_all_commits=true"
-        media="(prefers-color-scheme: dark)"
-        />
-        <source
-          srcset="https://github-readme-stats-fast.vercel.app/api?username=lucascampos42&show_icons=true&include_all_commits=true"
-          media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-        />
-        <img src="https://github-readme-stats-fast.vercel.app/api?username=lucascampos42&show_icons=true&include_all_commits=true" />
-      </picture>
-      <br />
-      <picture>
-        <source
-          srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=lucascampos42&layout=compact&theme=dark&langs_count=8"
-          media="(prefers-color-scheme: dark)"
-        />
-        <source
-          srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=lucascampos42&layout=compact&langs_count=8"
-          media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-        />
-        <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=lucascampos42&layout=compact&langs_count=8" />
-      </picture>
-    </div>
+  <h2>📊 GitHub Stats</h2>
+  <!-- Fast -->
+  <img height="180em"
+    src="https://github-readme-stats-fast.vercel.app/api?username=lucascampos42&show_icons=true&theme=dark&include_all_commits=false&count_private=true"
+  />
+
+  <br/>
+  <!-- Top Langs Fast -->
+  <img height="180em"
+    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=lucascampos42&layout=compact&theme=dark"
+  />
+
 </div>
+
 
 <br>
 
