@@ -1,76 +1,63 @@
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=BD93F9&center=true&vCenter=true&width=600&lines=Hello+World!+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Eu+sou+o+Lucas+Campos!;Full+Stack+Developer" alt="Typing SVG" />
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=BD93F9&center=true&vCenter=true&width=600&lines=Ol%C3%A1,+Mundo!+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Eu+sou+o+Lucas+Campos!;Desenvolvedor+Full+Stack" alt="Typing SVG" />
 
-<div align="center">
-  
-  ## 🚀 Sobre Mim
+## 🚀 Sobre Mim
 
-> _"Transformando tecnologia em inovação."_
+Sou **Desenvolvedor Full Stack** apaixonado por criar soluções que fazem a diferença. Comecei com WordPress, scripts e SQL no Firebird, e hoje trabalho com Flutter, NestJS, Angular, Vue e TypeScript.
 
-Sou **Desenvolvedor Full Stack** com foco em arquiteturas robustas e escaláveis.
+Acredito que software de qualidade é uma experiência bem pensada, escalável e que resolve problemas reais.
 
-Currently working at:
+| 💼 Trabalho atual | 🎯 Objetivo |
+| :---------------------- | :---------- |
+| 🌍 **Geobyte** — Front-End & Geoprocessamento<br>🚀 **CodesDevs** — Líder Técnico | Crescer como engenheiro, contribuir em open source e criar produtos que impactem vidas. |
 
-🏢 **Auditore Sistemas** (Full Stack)<br>
-🌍 **Geobyte** (Front-End & Geoprocessamento)<br>
-🚀 **CodesDevs** (Líder Técnico)<br>
-🎓 **Engenharia de Software** (Cursando)
-
-  <br>
-
-  <img src="https://skillicons.dev/icons?i=angular,vue,flutter,nestjs,ts,php,rust,docker,postgres,linux,wordpress,django,mongodb,prisma,unreal,vite,tauri,arch,bun,cpp,cloudflare,electron,github&perline=6" />
-
-</div>
-
-<br>
-<div align="center">
-  <h2>📊 GitHub Stats</h2>
-  <!-- Fast -->
-  <img height="180em"
-    src="https://github-readme-stats-fast.vercel.app/api?username=lucascampos42&show_icons=true&theme=dark&include_all_commits=false&count_private=true"
-  />
-
-  <br/>
-  <!-- Top Langs Fast -->
-  <img height="180em"
-    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=lucascampos42&layout=compact&theme=dark"
-  />
-
-</div>
-
-
-<br>
-
-<div align="center">
+📚 **Estudando atualmente:** Godot, Tauri, GIS e aprofundando em arquiteturas de software.
 
 ## 🌟 Projetos em Destaque
 
-| Projeto                                                                     |                                  Stack                                   | Descrição                                                    |
-| :-------------------------------------------------------------------------- | :----------------------------------------------------------------------: | :----------------------------------------------------------- |
-| **[NestJS Boilerplate](https://github.com/lucascampos42/nest-boilerplate)** | <img src="https://skillicons.dev/icons?i=nestjs,ts,docker" height="20"/> | Base robusta para backend com autenticação JWT e segurança.  |
-| **[Desafio Bemol](https://github.com/lucascampos42/desafio_bemol)**         |   <img src="https://skillicons.dev/icons?i=flutter,dart" height="20"/>   | App Flutter consumindo Fake Store API com busca e favoritos. |
-| **[Checklar](https://github.com/lucascampos42/checklar)**                   |  <img src="https://skillicons.dev/icons?i=flutter,nestjs" height="20"/>  | App de lista de compras para o lar.                          |
-| **[Calculo XML](https://github.com/lucascampos42/calculo-xml)**             |    <img src="https://skillicons.dev/icons?i=angular,ts" height="20"/>    | Somador de Impostos de NFe e Cupom Fiscal (NFC-e).           |
+<table>
+  <tr>
+    <td width="70%" valign="top">
 
-</div>
+| Projeto | Stack | Descrição |
+| :------ | :---: | :-------- |
+| **[NestJS Boilerplate](https://github.com/lucascampos42/nest-boilerplate)** | <img src="https://skillicons.dev/icons?i=nestjs,ts,docker" height="20"/> | Base robusta para backend com autenticação JWT e segurança. |
+| **[Desafio Bemol](https://github.com/lucascampos42/desafio_bemol)** | <img src="https://skillicons.dev/icons?i=flutter,dart" height="20"/> | App Flutter consumindo Fake Store API com busca e favoritos. |
+| **[Checklar](https://github.com/lucascampos42/checklar)** | <img src="https://skillicons.dev/icons?i=flutter,nestjs" height="20"/> | App de lista de compras para o lar. |
+| **[Calculo XML](https://github.com/lucascampos42/calculo-xml)** | <img src="https://skillicons.dev/icons?i=angular,ts" height="20"/> | Somador de Impostos de NFe e Cupom Fiscal (NFC-e). |
+
+  </td>
+    <td width="30%" valign="middle" align="center">
+      <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=lucascampos42&layout=compact&theme=dark&langs_count=8" />
+    </td>
+  </tr>
+</table>
 
 <div align="center">
-  
-  ## 📫 Contato
 
-  <a href="https://www.linkedin.com/in/lucascampos42/">
-    <img src="https://img.shields.io/badge/LinkedIn-bd93f9?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:bhlucascampos@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-ff79c6?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://wa.me/5533991448945">
-    <img src="https://img.shields.io/badge/WhatsApp-50fa7b?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
-  </a>
+## 📫 Contato
+
+<a href="https://www.linkedin.com/in/lucascampos42/">
+  <img src="https://img.shields.io/badge/LinkedIn-bd93f9?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:bhlucascampos@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-ff79c6?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://wa.me/5533991448945">
+  <img src="https://img.shields.io/badge/WhatsApp-50fa7b?style=for-the-badge&logo=whatsapp&logoColor=white" />
+</a>
+<a href="https://codesdevs.com.br">
+  <img src="https://img.shields.io/badge/Site-codesdevs.com.br-ff79c6?style=for-the-badge&logo=google-chrome&logoColor=white" />
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=lucascampos42&label=Profile%20Views&color=bd93f9&style=flat-square" />
+
+</div>
+<br>
+
+<img src="https://skillicons.dev/icons?i=angular,vue,flutter,nestjs,ts,php,python,godot,docker,postgres,linux,wordpress,mongodb,prisma,vite,tauri,arch,bun,cloudflare,electron,github&perline=21" />
 
 <br>
 
-  <img src="https://komarev.com/ghpvc/?username=lucascampos42&label=Profile%20Views&color=bd93f9&style=flat-square" alt="Profile Views" />
+<img src="https://github-profile-trophy.vercel.app/?username=lucascampos42&theme=darkhub&no-frame=true&no-bg=true&column=7" />
 
-</div>
+<img src="https://raw.githubusercontent.com/lucascampos42/lucascampos42/output/github-contribution-grid-snake-dark.svg" />
