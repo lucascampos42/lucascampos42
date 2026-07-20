@@ -14,32 +14,14 @@ Acredito que software de qualidade é uma experiência bem pensada, escalável e
 
 ## 🌟 Projetos em Destaque
 
-<table>
-  <tr>
-    <td width="70%" valign="top">
+| Projeto | Stack | Descrição |
+| :------ | :---: | :-------- |
+| **[NestJS Boilerplate](https://github.com/lucascampos42/nest-boilerplate)** | <img src="https://skillicons.dev/icons?i=nestjs,ts,docker" height="20"/> | Base robusta para backend com autenticação JWT e segurança. |
+| **[Desafio Bemol](https://github.com/lucascampos42/desafio_bemol)** | <img src="https://skillicons.dev/icons?i=flutter,dart" height="20"/> | App Flutter consumindo Fake Store API com busca e favoritos. |
+| **[Checklar](https://github.com/lucascampos42/checklar)** | <img src="https://skillicons.dev/icons?i=flutter,nestjs" height="20"/> | App de lista de compras para o lar. |
+| **[Calculo XML](https://github.com/lucascampos42/calculo-xml)** | <img src="https://skillicons.dev/icons?i=angular,ts" height="20"/> | Somador de Impostos de NFe e Cupom Fiscal (NFC-e). |
 
-**🔹 [NestJS Boilerplate](https://github.com/lucascampos42/nest-boilerplate)** <img src="https://skillicons.dev/icons?i=nestjs,ts,docker" height="20"/>
-<br>
-Base robusta para backend com autenticação JWT e segurança.
-
-**🔹 [Desafio Bemol](https://github.com/lucascampos42/desafio_bemol)** <img src="https://skillicons.dev/icons?i=flutter,dart" height="20"/>
-<br>
-App Flutter consumindo Fake Store API com busca e favoritos.
-
-**🔹 [Checklar](https://github.com/lucascampos42/checklar)** <img src="https://skillicons.dev/icons?i=flutter,nestjs" height="20"/>
-<br>
-App de lista de compras para o lar.
-
-**🔹 [Calculo XML](https://github.com/lucascampos42/calculo-xml)** <img src="https://skillicons.dev/icons?i=angular,ts" height="20"/>
-<br>
-Somador de Impostos de NFe e Cupom Fiscal (NFC-e).
-
-  </td>
-    <td width="30%" valign="middle" align="center">
-      <img height="200em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=lucascampos42&layout=compact&theme=dark&langs_count=8" />
-    </td>
-  </tr>
-</table>
+<img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=lucascampos42&layout=compact&theme=dark&langs_count=8" />
 
 <div align="center">
 
