@@ -2,13 +2,11 @@
 
 ## 🚀 Sobre Mim
 
-Sou **Desenvolvedor Full Stack** apaixonado por criar soluções que fazem a diferença. Comecei com WordPress, scripts e SQL no Firebird, e hoje trabalho com Flutter, NestJS, Angular, Vue e TypeScript.
+Desenvolvedor Full Stack com foco em **Engenharia de Software, Inteligência Artificial e DevOps**. Atualmente atuo como Frontend Developer na **Geobyte** e lidero projetos na **CodesDevs**, desenvolvendo aplicações escaláveis, performáticas e orientadas às melhores práticas de arquitetura.
 
-Acredito que software de qualidade é uma experiência bem pensada, escalável e que resolve problemas reais.
-
-| 💼 Trabalho atual | 🎯 Objetivo |
-| :---------------------- | :---------- |
-| 🌍 **Geobyte** — Front-End & Geoprocessamento<br>🚀 **CodesDevs** — Líder Técnico | Crescer como engenheiro, contribuir em open source e criar produtos que impactem vidas. |
+| 💼 Atualmente | 🔍 Interesses |
+| :------------ | :------------ |
+| 🌍 **Geobyte** — Front-End & GIS<br>🚀 **CodesDevs** — Líder Técnico | Engenharia de Software • IA • DevOps • Cloud • Arquiteturas Escaláveis |
 
 📚 **Estudando atualmente:** Godot, Tauri, GIS e aprofundando em arquiteturas de software.
 
@@ -21,7 +19,27 @@ Acredito que software de qualidade é uma experiência bem pensada, escalável e
 | **[Checklar](https://github.com/lucascampos42/checklar)** | <img src="https://skillicons.dev/icons?i=flutter,nestjs" height="20"/> | App de lista de compras para o lar. |
 | **[Calculo XML](https://github.com/lucascampos42/calculo-xml)** | <img src="https://skillicons.dev/icons?i=angular,ts" height="20"/> | Somador de Impostos de NFe e Cupom Fiscal (NFC-e). |
 
-<img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=lucascampos42&layout=compact&theme=dark&langs_count=8" />
+<table>
+  <tr>
+    <td>
+      <img height="160em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=lucascampos42&layout=compact&theme=dark&hide_border=true&langs_count=6" />
+    </td>
+    <td>
+      <img height="160em" src="https://streak-stats.demolab.com?user=lucascampos42&theme=dark&hide_border=true" />
+    </td>
+  </tr>
+</table>
+
+## 💻 Especialidades
+
+- Engenharia de Software
+- Front-end (Angular, Vue, Flutter)
+- Back-end (NestJS, Node.js)
+- APIs REST
+- DevOps
+- Docker
+- PostgreSQL
+- GIS
 
 <div align="center">
 
