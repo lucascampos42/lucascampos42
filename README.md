@@ -27,7 +27,7 @@ Acredito que software de qualidade é uma experiência bem pensada, escalável e
 
   </td>
     <td width="30%" valign="middle" align="center">
-      <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=lucascampos42&layout=compact&theme=dark&langs_count=8" />
+      <img height="220em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=lucascampos42&layout=compact&theme=dark&langs_count=8" />
     </td>
   </tr>
 </table>
@@ -52,12 +52,6 @@ Acredito que software de qualidade é uma experiência bem pensada, escalável e
 <img src="https://komarev.com/ghpvc/?username=lucascampos42&label=Profile%20Views&color=bd93f9&style=flat-square" />
 
 </div>
-<br>
 
 <img src="https://skillicons.dev/icons?i=angular,vue,flutter,nestjs,ts,php,python,godot,docker,postgres,linux,wordpress,mongodb,prisma,vite,tauri,arch,bun,cloudflare,electron,github&perline=21" />
 
-<br>
-
-<img src="https://github-profile-trophy.vercel.app/?username=lucascampos42&theme=darkhub&no-frame=true&no-bg=true&column=7" />
-
-<img src="https://raw.githubusercontent.com/lucascampos42/lucascampos42/output/github-contribution-grid-snake-dark.svg" />
